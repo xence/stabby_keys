@@ -33,9 +33,7 @@
     <object>objects\obj_G</object>
     <object>objects\obj_H</object>
   </objects>
-  <rooms name="rooms">
-    <room>rooms\room0</room>
-  </rooms>
+  <rooms name="rooms"/>
   <help>
     <rtf>help.rtf</rtf>
   </help>
