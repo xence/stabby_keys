@@ -14,6 +14,12 @@
     <sprite>sprites\spr_F</sprite>
     <sprite>sprites\spr_G</sprite>
     <sprite>sprites\spr_H</sprite>
+    <sprite>sprites\spr_I</sprite>
+    <sprite>sprites\spr_J</sprite>
+    <sprite>sprites\zombi</sprite>
+    <sprite>sprites\axe</sprite>
+    <sprite>sprites\sword</sprite>
+    <sprite>sprites\hammer</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -27,6 +33,9 @@
     <object>objects\obj_G</object>
     <object>objects\obj_H</object>
   </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
